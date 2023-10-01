@@ -49,5 +49,11 @@
   </div>
 </template>
 
-<script>
+<script setup>
+useHead({
+  title: 'Treana Slocum, ui/ux designer, full-stack developer, storyteller',
+  meta: [
+    { name: 'description', content: "Treana Slocum's portfolio" }
+  ],
+})
 </script>

@@ -36,7 +36,8 @@
   </div>
 </template>
 
-<script>
-  
-
+<script setup>
+useHead({
+  title: 'Podcastrs',
+})
 </script>

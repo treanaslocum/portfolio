@@ -27,7 +27,8 @@
   </div>
 </template>
 
-<script>
-  
-
+<script setup>
+useHead({
+  title: 'Skillseed',
+})
 </script>

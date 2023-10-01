@@ -2,7 +2,7 @@
   <div>
     <header class="py-6 px-16">
       <nav class="flex items-center justify-between">
-        <nuxt-link to="/"><img src="~assets/images/logo.png" alt="logo" width="40px" height="40px"></nuxt-link>
+        <nuxt-link to="/"><img src="~assets/images/logo.jpg" alt="logo" width="40px" height="40px"></nuxt-link>
         <ul class="flex">
           <nuxt-link to="/about" class="mr-8 font-medium">About</nuxt-link>
           <a href="https://docs.google.com/document/d/18V9ysqe2EyJK23ipfWqxVZH_BqNakcqhbOgt63ZP8KE/edit?usp=sharing" target="_blank" class="mr-8 font-medium">Resume</a>

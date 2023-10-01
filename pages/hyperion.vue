@@ -37,7 +37,8 @@
   </div>
 </template>
 
-<script>
-  
-
+<script setup>
+useHead({
+  title: 'Hyperion',
+})
 </script>
