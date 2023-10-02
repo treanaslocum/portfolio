@@ -1,47 +1,47 @@
 <template>
   <div>
     <Header/>
-    <main class="p-20 ml-64 w-2/3">
-      <p class="text-4xl leading-normal">
+    <main class="p-20 lg:ml-20 lg:w-3/4 sm:w-2/5 md:w-5/6">
+      <p class="lg:text-4xl sm:text-2xl leading-normal">
         I'm a <span class="underline font-light">ui/ux designer,</span> <span class="underline font-light">full-stack developer,</span> and <span class="underline font-light">storyteller</span> that is passionate about building beautiful digital experiences. 
       </p>
-      <p class="text-4xl mt-12 leading-normal">
+      <p class="lg:text-4xl sm:text-2xl mt-12 leading-normal">
         I also have a <span class="underline font-light">YouTube</span> channel where I share my personal experiences and spread inspiration and hope to other developers and designers.
       </p>
     </main>
     <section id="portfolio">
-      <div class="flex items-center justify-center p-20">
-        <div class="mr-12">
+      <div class="lg:p-20 flex flex-col justify-center">
+        <div class="">
           <nuxt-link to="/hyperion">
             <img src="~assets/images/hyperion.jpg" alt="Hyperion" class="">
-            <p class="mt-4 text-sm">UI/UX Design</p>
-            <h3 class="text-2xl font-medium">Hyperion</h3>
+            <p class="mt-4 lg:text-sm sm:text-xs">UI/UX Design</p>
+            <h3 class="lg:text-2xl sm:text-xl font-medium">Hyperion</h3>
           </nuxt-link>
           
         </div>
-        <div>
+        <div class="mt-20">
           <nuxt-link to="/skillseed">
             <img src="~assets/images/skillseed.jpg" alt="Skillseed" class="">
-            <p class="mt-4 text-sm">UI/UX Design, Web Development</p>
-            <h3 class="text-2xl font-medium">Skillseed</h3>
+            <p class="mt-4 lg:text-sm sm:text-xs">UI/UX Design, Web Development</p>
+            <h3 class="lg:text-2xl sm:text-xl font-medium">Skillseed</h3>
           </nuxt-link>
           
         </div>
         
       </div>
-      <div class="mt-16 flex items-center justify-center p-20">
-        <div class="mr-12">
+      <div class="mt-16 lg:p-20 flex flex-col justify-center">
+        <div class="">
           <nuxt-link to="/podcastrs">
             <img src="~assets/images/podcastrs-home.png" alt="Podcastrs" class="">
-            <p class="mt-4 text-sm">UI/UX Design</p>
-            <h3 class="text-2xl font-medium">Podcastrs</h3>
+            <p class="mt-4 lg:text-sm sm:text-xs">UI/UX Design</p>
+            <h3 class="lg:text-2xl sm:text-xl font-medium">Podcastrs</h3>
           </nuxt-link>
           
         </div>
-        <div>
+        <div class="mt-20 mb-20">
           <img src="~assets/images/skillseed.jpg" alt="Hyperion" class="">
-          <p class="mt-4 text-sm">UI/UX Design, Web Development</p>
-          <h3 class="text-2xl font-medium">Skillseed</h3>
+          <p class="mt-4 lg:text-sm sm:text-xs">UI/UX Design, Web Development</p>
+          <h3 class="lg:text-2xl m:text-xl font-medium">Skillseed</h3>
         </div>
         
       </div>
