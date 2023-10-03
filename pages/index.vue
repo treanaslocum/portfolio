@@ -38,11 +38,13 @@
           </nuxt-link>
           
         </div>
-        <!-- <div class="mt-20 mb-20">
-          <img src="~assets/images/skillseed.jpg" alt="Hyperion" class="">
-          <p class="mt-4 lg:text-sm sm:text-xs">UI/UX Design, Web Development</p>
-          <h3 class="lg:text-2xl m:text-xl font-medium">Skillseed</h3>
-        </div> -->
+        <nuxt-link to="/motion">
+          <div class="mt-20 mb-20">
+            <img src="~assets/images/motion.png" alt="Motion" class="">
+            <p class="mt-4 lg:text-sm sm:text-xs">UI/UX Design</p>
+            <h3 class="lg:text-2xl m:text-xl font-medium">Motion</h3>
+          </div>
+      </nuxt-link>
         
       </div>
     </section>
