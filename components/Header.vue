@@ -3,7 +3,7 @@
     
     <header class="py-6 lg:px-16 sm:px-2">
       <nav class="flex items-center lg:justify-between sm:flex-col">
-        <nuxt-link to="/"><img src="~assets/images/logo.jpg" alt="logo" width="40px" height="40px" class="mb-4"></nuxt-link>
+        <nuxt-link to="/"><img src="~assets/images/logo.jpg" alt="logo" class="mb-4 w-8"></nuxt-link>
         <ul class="flex">
           <nuxt-link to="/about" class="mr-8 font-medium">About</nuxt-link>
           <a href="https://docs.google.com/document/d/18V9ysqe2EyJK23ipfWqxVZH_BqNakcqhbOgt63ZP8KE/edit?usp=sharing" target="_blank" class="mr-8 font-medium">Resume</a>

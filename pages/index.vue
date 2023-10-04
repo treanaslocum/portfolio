@@ -3,7 +3,7 @@
     <Header/>
     <main class="p-20 lg:ml-20 lg:w-3/4 sm:w-2/5 md:w-5/6">
       <p class="lg:text-4xl sm:text-2xl leading-normal">
-        I'm a <span class="underline font-light">ui/ux designer,</span> <span class="underline font-light">full-stack developer,</span> and <span class="underline font-light">storyteller</span> that is passionate about building beautiful digital experiences. 
+        I'm a <span class="underline font-light">ui/ux designer,</span> <span class="underline font-light">frontend developer,</span> and <span class="underline font-light">storyteller</span> that is passionate about building beautiful digital experiences. 
       </p>
       <p class="lg:text-4xl sm:text-2xl mt-12 leading-normal">
         I also have a <span class="underline font-light">YouTube</span> channel where I share my personal experiences and spread inspiration and hope to other developers and designers.
