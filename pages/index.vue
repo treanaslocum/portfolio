@@ -42,7 +42,7 @@
           <div class="mt-20 mb-20">
             <img src="~assets/images/motion.png" alt="Motion" class="">
             <p class="mt-4 lg:text-sm sm:text-xs">UI/UX Design</p>
-            <h3 class="lg:text-2xl m:text-xl font-medium">Motion</h3>
+            <h3 class="lg:text-2xl m:text-xl font-medium">Motion Ai</h3>
           </div>
       </nuxt-link>
         

@@ -12,7 +12,7 @@
           <img class="mb-8" src="~/assets/images/motion-location.png">
         </div>
         <div class="sm:w-2/4 w-full">
-          <h1 class="mb-8 text-5xl font-medium">Motion <br><span class="text-xl font-light">UI/UX Design</span></h1>
+          <h1 class="mb-8 text-5xl font-medium">Motion Ai <br><span class="text-xl font-light">UI/UX Design</span></h1>
           <p class="mt-6 text-lg font-medium">Tools Used</p>
           <p class="mb-6">Adobe XD</p>
           <!-- <div>
